@@ -30,10 +30,11 @@ decorations_theme_variant = "Light" # "Dark"
 
 [font]
 
-normal.family = "Mononoki Nerd Font"
-bold.family = "Mononoki Nerd Font"
-italic.family = "Mononoki Nerd Font"
-bold_italic.family = "Mononoki Nerd Font"
+normal.family = "JetBrainsMono Nerd Font Mono"
+bold.family = "JetBrainsMono Nerd Font Mono"
+italic.family = "JetBrainsMono Nerd Font Mono"
+bold_italic.family = "JetBrainsMono Nerd Font Mono"
+
 
 size = 15.0
 
